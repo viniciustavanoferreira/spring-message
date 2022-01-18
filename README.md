@@ -1,5 +1,5 @@
 # Java - Spring Framework
-## Sistema simples para geração de mensagens, voltado para ajudar e dar exemplos aos iniciantes em aulas sobre:
+## Sistema simples para geração de mensagens e voltado para ajudar/ dar exemplos aos iniciantes em aulas sobre:
  * ciclo do TDD (escreva um teste que falha, faça o teste passar e refatore);
  * versionamento com Git;
  * desenvolvimento de sistemas sob Java Spring Framework;
